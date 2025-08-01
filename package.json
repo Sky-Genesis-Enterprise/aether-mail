@@ -74,7 +74,7 @@
     "jsonwebtoken": "^9.0.2",
     "lucide-react": "^0.487.0",
     "mailparser": "^3.7.2",
-    "multer": "^2.0.0",
+    "multer": "^2.0.2",
     "node-fetch": "^2.7.0",
     "node-imap": "^0.9.6",
     "nodemailer": "^7.0.3",
