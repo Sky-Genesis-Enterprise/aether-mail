@@ -68,7 +68,7 @@
     "express-rate-limit": "^7.5.0",
     "express-session": "^1.18.1",
     "express-validator": "^7.2.1",
-    "framer-motion": "^12.6.5",
+    "framer-motion": "^12.23.12",
     "helmet": "^8.1.0",
     "inquirer": "^8.2.6",
     "jsonwebtoken": "^9.0.2",
